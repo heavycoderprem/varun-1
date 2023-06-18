@@ -1,0 +1,43 @@
+body {
+    background-color: black ;
+}
+h1 {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+h2 {
+    background-color: #C0C0C0;
+    color: black;
+}
+
+
+    
+    
+
+img {
+    border: solid whitesmoke 3px;
+    
+    margin-left: 45%; 
+
+}
+.second {
+    color: white;
+}
+.fourth {
+    color: white;
+}
+footer {
+
+    color: aliceblue;
+}
+
+.fifth {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.sixth {
+    color: whitesmoke;
+    font-size: 20px;
+}
